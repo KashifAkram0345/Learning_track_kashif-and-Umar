@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;
+    background: white;
+}
+
+.first-div{
+    background-color: cyan;
+    padding: 20px;
+    width: 400px;
+}
+
+.first-para{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.second-div{
+    background-color: yellow;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.second-para{
+    background-color: orange;
+    padding: 10px;
+}
